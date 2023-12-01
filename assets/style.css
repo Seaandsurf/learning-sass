@@ -1,0 +1,26 @@
+body {
+  background-color: darkgrey;
+  align-items: center;
+}
+body .bubbles {
+  width: 25%;
+  border-radius: 20px;
+  display: block;
+}
+
+footer {
+  width: 25%;
+  text-align: justify;
+  background-color: white;
+  margin: 0;
+}
+footer p {
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-bottom: 20px;
+}
+footer h1 {
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 0;
+}/*# sourceMappingURL=style.css.map */
